@@ -1,3 +1,6 @@
+# Adding ratings.csv file since it is too large to push into github.
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
